@@ -1,0 +1,5 @@
+print("Welcome to the coding world!")
+print(15)
+print("You will learn a lot with Codingal \n")
+print("This is a Python file", 45)
+print("Bye for now!",end='see you next time')
