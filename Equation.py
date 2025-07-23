@@ -1,0 +1,17 @@
+a = int(input("Please enter a number: "))
+print("a =",a)
+b = int(input("Please enter a number: "))
+print("b =",b)
+c = int(input("Please enter a number: "))
+print("c =",c)
+d = int(input("Please enter a number: "))
+print("d =",d)
+e = int(input("Please enter a number: "))
+print("e =",e)
+f = int(input("Please enter a number: "))
+print("f =",f)
+
+equation = ("(a+e) ** (f//2) * d // c+b")
+print(equation)
+sum = (a+e)**(f//2)*d//c+b
+print("The final answer is",sum)

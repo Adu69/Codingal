@@ -1,0 +1,1 @@
+printinput('Enter a number')

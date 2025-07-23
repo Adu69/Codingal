@@ -29,7 +29,7 @@ else:
 if physics > 95:
     print("A+")
 elif physics > 85:
-    print("A")
+    print(" - A")
 elif physics > 75:
     print("B+")
 elif physics > 70:
